@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="corana21.s1710456003.student.kwmhgb.at" id="d20817cb-a701-43d3-ae2f-856b4840c81a" port="222" customName="HETZNER" nameFormat="CUSTOM">
+        <option name="customName" value="HETZNER" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
